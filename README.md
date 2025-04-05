@@ -5,3 +5,5 @@
 ### Non Primitive Data Types
 ### Variables (Local,Instance,Static)
 ### Operators
+### Arrays
+
