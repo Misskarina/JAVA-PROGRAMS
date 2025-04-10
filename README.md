@@ -10,3 +10,6 @@
 ### ArrayList
 ### ArrayList Using Integer
 ### Type Casting
+### LinkedList
+### Calculate area Of Rectangle
+
