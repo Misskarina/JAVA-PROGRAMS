@@ -14,5 +14,5 @@
 ### Calculate area Of Rectangle
 ### String
 ### Boolean Values
-### APPLET
+### Applet
 ### Steam Api
