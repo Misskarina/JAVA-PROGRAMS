@@ -15,4 +15,4 @@
 ### String
 ### Boolean Values
 ### Applet
-### Steam Api
+### Steam API
