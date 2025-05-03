@@ -6,7 +6,7 @@
 ### Variables (Local,Instance,Static)
 ### Operators
 ### Array
-### Classes And Object
+### Classes and Objects
 ### ArrayList
 ### ArrayList Using Integer
 ### Type Casting
