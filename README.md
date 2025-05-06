@@ -5,7 +5,7 @@
 ### Non Primitive Data Types
 ### Variables (Local,Instance,Static)
 ### Operators 
-### Array
+### Arrays
 ### Classes and Objects
 ### ArrayList
 ### ArrayList Using Integer
