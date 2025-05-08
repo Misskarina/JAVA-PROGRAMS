@@ -8,7 +8,7 @@
 ### Arrays
 ### Classes and Objects
 ### ArrayList
-### ArrayList Using Integer
+### ArrayList Using Int
 ### Type Casting
 ### LinkedList
 ### Calculate area Of Rectangle
