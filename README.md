@@ -1,7 +1,7 @@
 ### JAVA-PROGRAMS
 ## Basic Java Topics
 ### Hello World
-### Primitive data types 
+### Primitive data Types 
 ### Non Primitive Data Types
 ### Variables (Local,Instance,Static)
 ### Operator
