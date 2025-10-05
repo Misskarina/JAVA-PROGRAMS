@@ -14,4 +14,3 @@
 ### String
 ### Boolean Values
 ### Applets
-### Stream API
