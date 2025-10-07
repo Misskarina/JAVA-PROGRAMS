@@ -13,4 +13,4 @@
 ### Calculate area Of Rectangle
 ### String
 ### Boolean Values
-### Applets
+
